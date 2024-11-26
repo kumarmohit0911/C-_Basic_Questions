@@ -1,0 +1,1 @@
+// 6. Write a c program for concatenation two strings without using string.h header file. 
